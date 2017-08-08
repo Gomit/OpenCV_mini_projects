@@ -59,5 +59,3 @@ cv2.imshow('6',img1)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-
